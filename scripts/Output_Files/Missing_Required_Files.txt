@@ -1,0 +1,154 @@
+===============================
+Bmexicanum_v2.1	Assembly:	False	Gene models:	True
+--------------------------------
+	file	Bmexicanum_813_v2.1.locus_transcript_name_map.txt
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0
+--------------------------------
+	file	Bmexicanum_813_v2.1.repeatmasked_assembly_v2.0.gff3.gz
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0
+--------------------------------
+	file	Bmexicanum_813_v2.1.readme.txt
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0
+--------------------------------
+	file	Bmexicanum_813_v2.1.cds.fa.gz
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0
+--------------------------------
+	file	Bmexicanum_813_v2.0.fa.gz
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v2.0
+--------------------------------
+	file	Bmexicanum_813_v2.1.gene_exons.gff3.gz
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0
+--------------------------------
+	file	Bmexicanum_813_v2.1.annotation_info.txt
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0
+--------------------------------
+	file	Bmexicanum_813_v2.1.DataReleasePolicy.html
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v2.0
+--------------------------------
+	file	Bmexicanum_813_v2.0.hardmasked.fa.gz
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0
+--------------------------------
+	file	Bmexicanum_813_v2.1.protein.fa.gz
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0
+--------------------------------
+	file	Bmexicanum_813_v2.1.synonym.txt
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0
+--------------------------------
+	file	Bmexicanum_813_v2.1.analysis.xml.gz
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v2.0
+--------------------------------
+	file	Bmexicanum_813_v2.1.protein_primaryTranscriptOnly.fa.gz
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0
+--------------------------------
+	file	Bmexicanum_813_v2.1.gene.gff3.gz
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0
+--------------------------------
+	file	Bmexicanum_813_v2.1.defline.txt
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0
+--------------------------------
+	file	Bmexicanum_813_v2.0.softmasked.fa.gz
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0
+--------------------------------
+	file	Bmexicanum_813_v2.1.transcript_primaryTranscriptOnly.fa.gz
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0
+--------------------------------
+	file	Bmexicanum_813_v2.1.transcript.fa.gz
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0
+--------------------------------
+	file	Bmexicanum_813_v2.1.cds_primaryTranscriptOnly.fa.gz
+	annotation_version	v2.1
+	proteome_id	813
+	phytozome_genome_id	813
+	Gspecies	Bmexicanum
+	version	v2.1
+	assembly_version	v1.0

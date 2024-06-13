@@ -1,0 +1,5 @@
+Athaliana_Araport11	Athaliana_447_TAIR10.fa.gz
+Bdistachyon_v2.1	Bdistachyon_283_assembly_v2.0.fa.gz
+Mesculenta_v6.1	Mesculenta_305_v6.fa.gz
+Sbicolor_v3.1.1	Sbicolor_454_v3.0.1.fa.gz
+Fvesca_v2.0.a2	Fvesca_501_v2.0.a1.fa.gz
