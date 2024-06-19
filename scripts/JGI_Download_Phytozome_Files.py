@@ -57,9 +57,4 @@ for ff in organism_files:
 print("Downloaded "+str(len(downloaded_files))+" files")
 with open(os.path.join('..',db_source,'JGI_Data_Portal_Downloaded_Files.json'),'w') as jdpfh:
     jdpfh.write(json.dumps(downloaded_files,indent=2))
-        
-# Download
-# curl -X GET "https://files-download.jgi.doe.gov/download_files/53112ac349607a1be00559cb/"
-# -H "accept: application/json"
-# -H "Authorization: Bearer /api/sessions/3c4f7df597e6f307f2a09c01ba096558"
-# -H "X-CSRFToken: T4RZT9zZtQHsEqFZVMDr2UUBw0WkWjlA99orsLaTxGWwQoQn7JMKL3sV4J3SNW67"
+
