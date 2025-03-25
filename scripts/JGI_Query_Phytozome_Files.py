@@ -47,6 +47,7 @@ while(isinstance(next_page,int)):
                 phy['file']=ff['file_name']
                 phy['status']=ff['file_status']
                 phy['type']=ff['file_type']
+                phy['date']=ff['file_date']
                 if(phy['phytozome_release_id'][-1] == "current"):
                     phy['phytozome_release_id'].pop()
                 phy['phytozome_release_id'] = phy['phytozome_release_id'][-1]
@@ -60,8 +61,9 @@ while(isinstance(next_page,int)):
 
     next_page=data['next_page']
 
+organism_files = sorted(organism_files, key = lambda d: [str(d[key]) for key in ("proteome_id","jamo_id")])
 with open(os.path.join('..',db_source,'JGI_Data_Portal_Files.json'),'w') as jdpfh:
-    jdpfh.write(json.dumps(organism_files,indent=2))
+    jdpfh.write(json.dumps(organism_files,sort_keys=True,indent=2))
 
 # List files
 # curl -X GET "https://files.jgi.doe.gov/phytozome_file_list/?version=current&api_version=2&a=false&h=false&d=asc&p=1&x=1000"
