@@ -3,3 +3,10 @@ Bdistachyon_v2.1	Bdistachyon_283_assembly_v2.0.fa.gz
 Mesculenta_v6.1	Mesculenta_305_v6.fa.gz
 Sbicolor_v3.1.1	Sbicolor_454_v3.0.1.fa.gz
 Fvesca_v2.0.a2	Fvesca_501_v2.0.a1.fa.gz
+Aoccidentale_v0.9	Aoccidentale_449_cashewV0.9.fa.gz
+Cviolacea_v1.1	Cviolacea_484_v1.fa.gz
+Bbraunii_v2.1	Bbraunii_502_2.0.fa.gz
+TarvensevarLorettoMN_v1.1	Tarvensevar_LorettoMN_876_v1.0.fa
+TarvensevarPI650286_v1.1	Tarvensevar_PI650286_878_v1.0.fa
+FmultifloravarABG20040013HAP2_v1.1	Fmultifloravar_ABG20040013HAP2_869_v1.1.fa.gz
+FmultifloravarABG20040013HAP1_v1.1	Fmultifloravar_ABG20040013HAP1_868_v1.1.fa.gz
