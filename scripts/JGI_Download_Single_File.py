@@ -9,16 +9,16 @@ import requests
 # Bearer /api/sessions/faf69c37e163f009d664b0eee870c19a
 # https://files-download.jgi.doe.gov/apidoc/
 
-Session_Token = 'Bearer /api/sessions/faf69c37e163f009d664b0eee870c19a'
+Session_Token = 'Bearer /api/sessions/5e665b6723a8b3302f8e638a4f514771'
 headers = {
     'accept': 'application/json',
     'Authorization': Session_Token,
 }
 
-file_to_download = "Sbicolor_454_v3.1.1.transcript_primaryTranscriptOnly.fa.gz"
+file_to_download = "Tarvensevar_MN106_872_v4.1.protein.fa.gz"
 db_source = 'phytozome'
 base_url = 'https://files-download.jgi.doe.gov/download_files/'
-with open(os.path.join('..',db_source,'JGI_Data_Portal_Files.json') as jdpfh:
+with open(os.path.join('..',db_source,'JGI_Data_Portal_Files.json')) as jdpfh:
     organism_files = json.load(jdpfh)
 
 for ff in organism_files:
